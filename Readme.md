@@ -42,6 +42,10 @@ git remote -v -lista os endereços do diretorio remoto
 
 git push -u origin master - envia os seus arquivos para o github
 
+git push origin master - para enviar as suas modificações ao github
+
+
+
 
 
 
