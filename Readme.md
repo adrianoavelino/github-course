@@ -35,10 +35,12 @@ git reset --hard 7c38e19e0c7a62451908ffb3e44b094653be23ef - remove o commit do l
 crie um repositório no github sem o Readme.md
 
 git remote add origin https://github.com/adrianoavelino/github-course.git
-git push -u origin master
 
+git remote - lista os diretórios remotos
 
+git remote -v -lista os endereços do diretorio remoto
 
+git push -u origin master - envia os seus arquivos para o github
 
 
 
