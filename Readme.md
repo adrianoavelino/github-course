@@ -50,6 +50,15 @@ Fazendo um fork - acesse a página que deseja contribuir realize um fork para se
 
 git checkout -b testing - cria um novo branch e entra dentro dele
 
+git branch - lista os branchs existentes
+
+git checkout master - muda de brannch (o exeplo muda para o branch master)
+
+git checkout -D testing - deleta o branch testing
+
+
+
+
 
 
 
