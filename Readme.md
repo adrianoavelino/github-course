@@ -31,3 +31,16 @@ git reset --soft 7c38e19e0c7a62451908ffb3e44b094653be23ef - remove o commit do l
 git reset --mixed 7c38e19e0c7a62451908ffb3e44b094653be23ef - remove o commit do log e volta o arquivo para o estado modificado
 
 git reset --hard 7c38e19e0c7a62451908ffb3e44b094653be23ef - remove o commit do log e remove todas as modificações
+
+crie um repositório no github sem o Readme.md
+
+git remote add origin https://github.com/adrianoavelino/github-course.git
+git push -u origin master
+
+
+
+
+
+
+
+
