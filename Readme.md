@@ -44,6 +44,7 @@ git push -u origin master - envia os seus arquivos para o github
 
 git push origin master - para enviar as suas modificações ao github
 
+git clone https://github.com/adrianoavelino/github-course.git - clona um repositorio para sua maquina local
 
 
 
