@@ -48,9 +48,7 @@ git clone https://github.com/adrianoavelino/github-course.git - clona um reposit
 
 Fazendo um fork - acesse a página que deseja contribuir realize um fork para seu repositorio do Github, clone do seu repositorio faça as alterações localmente, envie as alterações para o seu repositório e depois envie um pull request para o projeto contribuido, onde será analisado e talvez aceito.
 
-
-
-
+git checkout -b testing - cria um novo branch e entra dentro dele
 
 
 
