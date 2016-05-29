@@ -68,8 +68,7 @@ git stash list - lista os stashs
 
 git stash clear - limpa os stashs existentes
 
-
-
+git config --global alias.s status - criar um alias (atalho) chamado s
 
 
 
