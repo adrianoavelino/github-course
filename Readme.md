@@ -60,6 +60,14 @@ git merge modificacao - junta os logs do branch modificacao, mas cria um commit 
 
 git rebase modificacao - junta os logs do branch modificado, porém lança os commits do branch modificacao acima dos commits do branch atual (perde a sequência lógica)
 
+git stash - esconde as modificações para serem usadas futuramente
+
+git stash apply - aplica as modificações escondidas
+
+git stash list - lista os stashs
+
+git stash clear - limpa os stashs existentes
+
 
 
 
