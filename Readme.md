@@ -56,6 +56,21 @@ git checkout master - muda de brannch (o exeplo muda para o branch master)
 
 git checkout -D testing - deleta o branch testing
 
+git merge modificacao - junta os logs do branch modificacao, mas cria um commit para juntar o conflito nos logs (mantem a ordem cronoligica)
+
+git rebase modificacao - junta os logs do branch modificado, porém lança os commits do branch modificacao acima dos commits do branch atual (perde a sequência lógica)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
