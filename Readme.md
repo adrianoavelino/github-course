@@ -70,6 +70,13 @@ git stash clear - limpa os stashs existentes
 
 git config --global alias.s status - criar um alias (atalho) chamado s
 
+git tag -a 1.0.0 -m "readme finalizado" - cria uma nova tag
+
+git push origin master --tags - envia para o repositorio remoto as tags criadas
+
+git tag - lista todas as tags criadas
+
+
 
 
 
