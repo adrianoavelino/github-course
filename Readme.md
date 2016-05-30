@@ -76,6 +76,10 @@ git push origin master --tags - envia para o repositorio remoto as tags criadas
 
 git tag - lista todas as tags criadas
 
+git revert 4e3938f2171e01897a04a0c14005fd0e3a05a394 - reverte as modificações sem perder os commits anteriores, utilizado por exemplo quando o código quebra em produção e deseja verificar futuramente o motivo do erro
+
+
+
 
 
 
