@@ -1,6 +1,3 @@
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-
 #Git e GitHub para Iniciantes - Willian Justen
 
 `git show 1bdaa65347430f5ca10c5354a6b10c35cfd71a76`
