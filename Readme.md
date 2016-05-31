@@ -1,5 +1,17 @@
 #Git e GitHub para Iniciantes - Willian Justen
 
+git config --global user.name "Adriano Avelino" - configura o usuário do git
+
+git config --global user.email "adriano-st777@hotmail.com" - conffigura o e-mail do git
+
+git config --global core.editor vim - configura o editor padrão
+
+git config user.name - exibe o usuário configurado
+
+git config user.email - exibe o e-mail conigurado
+
+git config --list - lista as configurações
+
 `git show 1bdaa65347430f5ca10c5354a6b10c35cfd71a76`
 
 git log
