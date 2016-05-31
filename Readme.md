@@ -90,6 +90,12 @@ git tag - lista todas as tags criadas
 
 git revert 4e3938f2171e01897a04a0c14005fd0e3a05a394 - reverte as modificações sem perder os commits anteriores, utilizado por exemplo quando o código quebra em produção e deseja verificar futuramente o motivo do erro
 
+git tag -d 1.0.0 - deleta a tag localmente
+
+git push origin :1.0.0 - deleta a tag do diretorio remoto (o mesmo poderia ser feito com a deleção de branches remotos)
+
+
+
 
 
 
